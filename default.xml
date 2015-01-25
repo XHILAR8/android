@@ -443,7 +443,7 @@
   <project path="packages/apps/LockClock" name="CyanogenMod/android_packages_apps_LockClock" />
   <project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms-caf" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
-  <project path="packages/apps/OneHandMode" name="XHILAR8/android_packages_apps_OneHandedMode" revision="master"/> 
+  <project path="packages/apps/OneHandedMode" name="XHILAR8/android_packages_apps_OneHandedMode" revision="master"/> 
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <project path="packages/apps/PackageInstaller" name="XHILAR8/android_packages_apps_PackageInstaller" />
   <project path="packages/apps/PhoneCommon" name="CyanogenMod/android_packages_apps_PhoneCommon" />
